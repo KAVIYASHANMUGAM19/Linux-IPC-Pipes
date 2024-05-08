@@ -1,6 +1,5 @@
 # NAME : S.KAVIYA
 # REGSITER : 212223040090
-# DEPARTMENT : CSE
 # Linux-IPC--Pipes
 Linux-IPC-Pipes
 
